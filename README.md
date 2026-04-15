@@ -6,18 +6,26 @@ This project allows users to create, manage, and track tasks in a clean and intu
 
 ✨ Features
 📝 Add new tasks
+
 ✏️ Edit existing tasks
+
 ❌ Delete tasks
+
 ✅ Mark tasks as completed
+
 📋 View all tasks in a dashboard
+
 📱 Responsive design
 
 🛠️ Tech Stack
+
 Frontend:
 HTML
 CSS
 JavaScript
+
 Backend:
 Flask (Python) / Node.js
+
 Database:
 SQLite / MongoDB
